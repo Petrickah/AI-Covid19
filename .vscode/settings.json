@@ -1,0 +1,6 @@
+{
+    "python.linting.enabled": true,
+    "python.pythonPath": "C:\\ProgramData\\Anaconda3\\envs\\tensorflow\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "jupyter.jupyterServerType": "local"
+}
